@@ -1,0 +1,148 @@
+{
+  "properties": [
+    {
+      "name": "to-kafka-service.toKafkaSourceList",
+      "type": "java.lang.String",
+      "description": "Description for to-kafka-service.kafka-keywords."
+    },
+    {
+      "name": "to-kafka-service.welcomeMessage",
+      "type": "java.lang.String",
+      "description": "Description for to-kafka-service.welcome-message."
+    },
+    {
+      "name": "to-kafka-service.toBeach",
+      "type": "java.lang.String",
+      "description": "Description for to-kafka-service.toBeach."
+    },
+    {
+      "name": "to-kafka-service.mock-sleep-ms",
+      "type": "java.lang.String",
+      "description": "Description for to-kafka-service.mock-sleep-ms."
+    },
+    {
+      "name": "to-kafka-service.enable-mock-tweets",
+      "type": "java.lang.String",
+      "description": "Description for to-kafka-service.enable-mock-tweets."
+    },
+    {
+      "name": "to-kafka-service.mock-min-tweet-length",
+      "type": "java.lang.String",
+      "description": "Description for to-kafka-service.mock-min-tweet-length."
+    },
+    {
+      "name": "to-kafka-service.mock-max-tweet-length",
+      "type": "java.lang.String",
+      "description": "Description for to-kafka-service.mock-max-tweet-length."
+    },
+    {
+      "name": "retry-config.initial-interval",
+      "type": "java.lang.String",
+      "description": "Description for retry-config.initial-interval."
+    },
+    {
+      "name": "retry-config.max-interval-ms",
+      "type": "java.lang.String",
+      "description": "Description for retry-config.max-interval-ms."
+    },
+    {
+      "name": "retry-config.multiplier",
+      "type": "java.lang.String",
+      "description": "Description for retry-config.multiplier."
+    },
+    {
+      "name": "retry-config.maxAttempts",
+      "type": "java.lang.String",
+      "description": "Description for retry-config.maxAttempts."
+    },
+    {
+      "name": "retry-config.sleep-time-ms",
+      "type": "java.lang.String",
+      "description": "Description for retry-config.sleep-time-ms."
+    },
+    {
+      "name": "kafka-config.bootstrap-servers",
+      "type": "java.lang.String",
+      "description": "Description for kafka-config.bootstrap-servers."
+    },
+    {
+      "name": "kafka-config.schema-registry-url-key",
+      "type": "java.lang.String",
+      "description": "Description for kafka-config.schema-registry-url-key."
+    },
+    {
+      "name": "kafka-config.schema-registry-url",
+      "type": "java.lang.String",
+      "description": "Description for kafka-config.schema-registry-url."
+    },
+    {
+      "name": "kafka-config.topic-name",
+      "type": "java.lang.String",
+      "description": "Description for kafka-config.topic-name."
+    },
+    {
+      "name": "kafka-config.topic-names-to-create",
+      "type": "java.lang.String",
+      "description": "Description for kafka-config.topic-names-to-create."
+    },
+    {
+      "name": "kafka-config.num-of-partitions",
+      "type": "java.lang.String",
+      "description": "Description for kafka-config.num-of-partitions."
+    },
+    {
+      "name": "kafka-config.replication-factor",
+      "type": "java.lang.String",
+      "description": "Description for kafka-config.replication-factor."
+    },
+    {
+      "name": "kafka-producer-config.key-serializer-class",
+      "type": "java.lang.String",
+      "description": "Description for kafka-producer-config.key-serializer-class."
+    },
+    {
+      "name": "kafka-producer-config.value-serializer-class",
+      "type": "java.lang.String",
+      "description": "Description for kafka-producer-config.value-serializer-class."
+    },
+    {
+      "name": "kafka-producer-config.compression-type",
+      "type": "java.lang.String",
+      "description": "Description for kafka-producer-config.compression-type."
+    },
+    {
+      "name": "kafka-producer-config.acks",
+      "type": "java.lang.String",
+      "description": "Description for kafka-producer-config.acks."
+    },
+    {
+      "name": "kafka-producer-config.batch-size",
+      "type": "java.lang.String",
+      "description": "Description for kafka-producer-config.batch-size."
+    },
+    {
+      "name": "kafka-producer-config.batch-size-boost-factor",
+      "type": "java.lang.String",
+      "description": "Description for kafka-producer-config.batch-size-boost-factor."
+    },
+    {
+      "name": "kafka-producer-config.linger-ms",
+      "type": "java.lang.String",
+      "description": "Description for kafka-producer-config.linger-ms."
+    },
+    {
+      "name": "kafka-producer-config.request-timeout-ms",
+      "type": "java.lang.String",
+      "description": "Description for kafka-producer-config.request-timeout-ms."
+    },
+    {
+      "name": "kafka-producer-config.retry-count",
+      "type": "java.lang.String",
+      "description": "Description for kafka-producer-config.retry-count."
+    },
+    {
+      "name": "retry-config.initial-interval-ms",
+      "type": "java.lang.String",
+      "description": "Description for retry-config.initial-interval-ms."
+    }
+  ] }
