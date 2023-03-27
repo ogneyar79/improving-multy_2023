@@ -268,3 +268,579 @@
 2023-03-27 11:10:47 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5906860037529601063, "id": 3284178306693101472, "text": "Robot solution dangerous Basilio Java RED magna White", "createdAt": 1679904647000}' to topic='twitter-topic'
 2023-03-27 11:10:57 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son Elena Happiness crash Dream Black Java Dream Victor RED Hamlet Victor sending to kafka topic twitter-topic
 2023-03-27 11:10:57 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4674394854995464286, "id": 523000272101120288, "text": "Son Elena Happiness crash Dream Black Java Dream Victor RED Hamlet Victor", "createdAt": 1679904657000}' to topic='twitter-topic'
+2023-03-27 11:11:07 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hope crash magna Hope trouble Robot RED Son Microservices dollar Son Black crash RED solution sending to kafka topic twitter-topic
+2023-03-27 11:11:07 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6310070674256549669, "id": 5100549756362400326, "text": "Hope crash magna Hope trouble Robot RED Son Microservices dollar Son Black crash RED solution", "createdAt": 1679904667000}' to topic='twitter-topic'
+2023-03-27 11:11:17 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text crash trouble Sun White magna Kafka Sun dangerous Hamlet sending to kafka topic twitter-topic
+2023-03-27 11:11:17 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1023497360632762414, "id": 3176011117001556874, "text": "crash trouble Sun White magna Kafka Sun dangerous Hamlet", "createdAt": 1679904677000}' to topic='twitter-topic'
+2023-03-27 11:11:27 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hamlet Son Basilio Hope Rub Java Robot magna dangerous sending to kafka topic twitter-topic
+2023-03-27 11:11:27 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1716845685195222124, "id": 3918112698853668978, "text": "Hamlet Son Basilio Hope Rub Java Robot magna dangerous", "createdAt": 1679904687000}' to topic='twitter-topic'
+2023-03-27 11:11:37 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dollar RED Maksim flat Hamlet Java Maksim EUr Elena Basilio sending to kafka topic twitter-topic
+2023-03-27 11:11:37 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4523386944571990524, "id": 6097176030390574880, "text": "dollar RED Maksim flat Hamlet Java Maksim EUr Elena Basilio", "createdAt": 1679904697000}' to topic='twitter-topic'
+2023-03-27 11:11:47 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Victor magna EUr Basilio Spring dollar Robot dollar sending to kafka topic twitter-topic
+2023-03-27 11:11:47 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5391607733340509867, "id": 5715140665984863388, "text": "Victor magna EUr Basilio Spring dollar Robot dollar", "createdAt": 1679904707000}' to topic='twitter-topic'
+2023-03-27 11:11:57 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text decision magna Sun magna solution Spring EUr Dream Sun sending to kafka topic twitter-topic
+2023-03-27 11:11:57 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7796265731093673774, "id": 6723985897360315916, "text": "decision magna Sun magna solution Spring EUr Dream Sun", "createdAt": 1679904717000}' to topic='twitter-topic'
+2023-03-27 11:12:07 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text solution dangerous Victor RED Robot Hope Java Elena Sun Dream dollar decision sending to kafka topic twitter-topic
+2023-03-27 11:12:07 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 882361544178871698, "id": 8895533674507137383, "text": "solution dangerous Victor RED Robot Hope Java Elena Sun Dream dollar decision", "createdAt": 1679904727000}' to topic='twitter-topic'
+2023-03-27 11:12:17 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hope Elena Happiness RED Basilio Spring dangerous Maksim Black sending to kafka topic twitter-topic
+2023-03-27 11:12:17 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2479502385172207671, "id": 5235720932950402365, "text": "Hope Elena Happiness RED Basilio Spring dangerous Maksim Black", "createdAt": 1679904737000}' to topic='twitter-topic'
+2023-03-27 11:12:27 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Basilio Freedom solution Maksim solution Java Hamlet flat flat sending to kafka topic twitter-topic
+2023-03-27 11:12:27 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 577605050026044440, "id": 1635616999109427172, "text": "Basilio Freedom solution Maksim solution Java Hamlet flat flat", "createdAt": 1679904747000}' to topic='twitter-topic'
+2023-03-27 11:12:37 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Elena decision Robert dollar Elena solution Java Maksim Hope Robot Freedom sending to kafka topic twitter-topic
+2023-03-27 11:12:37 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5764438962922769651, "id": 8989908547829861402, "text": "Elena decision Robert dollar Elena solution Java Maksim Hope Robot Freedom", "createdAt": 1679904757000}' to topic='twitter-topic'
+2023-03-27 11:12:47 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Rub EUr dangerous Happiness Java Happiness Rub magna sending to kafka topic twitter-topic
+2023-03-27 11:12:47 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2769166919163866035, "id": 4830865704302161786, "text": "Rub EUr dangerous Happiness Java Happiness Rub magna", "createdAt": 1679904767000}' to topic='twitter-topic'
+2023-03-27 11:12:57 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text EUr Maksim Black Kafka Dream Hope sending to kafka topic twitter-topic
+2023-03-27 11:12:57 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1186871284421488948, "id": 8184736263790708397, "text": "EUr Maksim Black Kafka Dream Hope", "createdAt": 1679904777000}' to topic='twitter-topic'
+2023-03-27 11:13:07 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Elena RED Hamlet Basilio crash Hope Kafka Robot trouble dangerous solution dollar sending to kafka topic twitter-topic
+2023-03-27 11:13:07 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5927020232868605122, "id": 2380386873341537665, "text": "Elena RED Hamlet Basilio crash Hope Kafka Robot trouble dangerous solution dollar", "createdAt": 1679904787000}' to topic='twitter-topic'
+2023-03-27 11:13:17 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text trouble magna EUr dangerous Dream magna Sun solution Java decision Victor RED trouble Maksim Dream sending to kafka topic twitter-topic
+2023-03-27 11:13:17 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 780842025779230780, "id": 5931418170833933719, "text": "trouble magna EUr dangerous Dream magna Sun solution Java decision Victor RED trouble Maksim Dream", "createdAt": 1679904797000}' to topic='twitter-topic'
+2023-03-27 11:13:27 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Freedom Maksim magna Rub Kafka Basilio Victor sending to kafka topic twitter-topic
+2023-03-27 11:13:27 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7807212153755636005, "id": 6287550758559644810, "text": "Freedom Maksim magna Rub Kafka Basilio Victor", "createdAt": 1679904807000}' to topic='twitter-topic'
+2023-03-27 11:13:37 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text solution trouble Black solution Sun flat Rub Rub Kafka RED White EUr RED Son decision sending to kafka topic twitter-topic
+2023-03-27 11:13:37 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1684591561710798179, "id": 409603364697748834, "text": "solution trouble Black solution Sun flat Rub Rub Kafka RED White EUr RED Son decision", "createdAt": 1679904817000}' to topic='twitter-topic'
+2023-03-27 11:13:47 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son Sun Sun solution Sun crash White Elasticsearch White Dream Robot White Happiness sending to kafka topic twitter-topic
+2023-03-27 11:13:47 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6149397719274567160, "id": 1568353683634034473, "text": "Son Sun Sun solution Sun crash White Elasticsearch White Dream Robot White Happiness", "createdAt": 1679904827000}' to topic='twitter-topic'
+2023-03-27 11:13:57 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Freedom Black Black White Java magna Hamlet sending to kafka topic twitter-topic
+2023-03-27 11:13:57 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2371454439724314477, "id": 1395513799276757758, "text": "Freedom Black Black White Java magna Hamlet", "createdAt": 1679904837000}' to topic='twitter-topic'
+2023-03-27 11:14:07 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text EUr RED Maksim Elasticsearch Robot magna sending to kafka topic twitter-topic
+2023-03-27 11:14:07 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4125382657999548987, "id": 6445202863547509429, "text": "EUr RED Maksim Elasticsearch Robot magna", "createdAt": 1679904847000}' to topic='twitter-topic'
+2023-03-27 11:14:17 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Victor EUr Robot Basilio Victor Elasticsearch Son magna solution solution sending to kafka topic twitter-topic
+2023-03-27 11:14:17 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3186011347377448268, "id": 1419620571156328317, "text": "Victor EUr Robot Basilio Victor Elasticsearch Son magna solution solution", "createdAt": 1679904857000}' to topic='twitter-topic'
+2023-03-27 11:14:27 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Black Dream Black Spring magna EUr sending to kafka topic twitter-topic
+2023-03-27 11:14:27 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6435488255832702154, "id": 5426632319177297383, "text": "Black Dream Black Spring magna EUr", "createdAt": 1679904867000}' to topic='twitter-topic'
+2023-03-27 11:14:37 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Freedom Robot solution EUr Black Robert flat Spring Dream Hamlet Robert Hamlet Happiness sending to kafka topic twitter-topic
+2023-03-27 11:14:37 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6223648932993711856, "id": 974260645821680697, "text": "Freedom Robot solution EUr Black Robert flat Spring Dream Hamlet Robert Hamlet Happiness", "createdAt": 1679904877000}' to topic='twitter-topic'
+2023-03-27 11:14:47 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dangerous Son Dream dangerous dollar Son dangerous solution Spring dangerous dangerous Sun Rub Freedom RED Rub sending to kafka topic twitter-topic
+2023-03-27 11:14:47 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2581817128149371571, "id": 1614577684677044227, "text": "dangerous Son Dream dangerous dollar Son dangerous solution Spring dangerous dangerous Sun Rub Freedom RED Rub", "createdAt": 1679904887000}' to topic='twitter-topic'
+2023-03-27 11:14:57 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Happiness Hope White EUr Elasticsearch RED RED sending to kafka topic twitter-topic
+2023-03-27 11:14:57 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8942490034340586000, "id": 8004512145299560673, "text": "Happiness Hope White EUr Elasticsearch RED RED", "createdAt": 1679904897000}' to topic='twitter-topic'
+2023-03-27 11:15:07 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hamlet Robot RED Rub White Basilio Spring Victor Hope Son Basilio Sun sending to kafka topic twitter-topic
+2023-03-27 11:15:07 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4613793000493702301, "id": 8104110049911044395, "text": "Hamlet Robot RED Rub White Basilio Spring Victor Hope Son Basilio Sun", "createdAt": 1679904907000}' to topic='twitter-topic'
+2023-03-27 11:15:17 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robert crash Maksim Java Hope trouble sending to kafka topic twitter-topic
+2023-03-27 11:15:17 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4902959226501690563, "id": 7118159021390523122, "text": "Robert crash Maksim Java Hope trouble", "createdAt": 1679904917000}' to topic='twitter-topic'
+2023-03-27 11:15:27 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text crash crash decision Freedom Freedom Elasticsearch EUr Dream Robot sending to kafka topic twitter-topic
+2023-03-27 11:15:27 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6227754634186308438, "id": 7205306836446791542, "text": "crash crash decision Freedom Freedom Elasticsearch EUr Dream Robot", "createdAt": 1679904927000}' to topic='twitter-topic'
+2023-03-27 11:15:37 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Dream Rub Robert EUr Kafka Hope Black Rub sending to kafka topic twitter-topic
+2023-03-27 11:15:37 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8172204103832835801, "id": 6382747897423284913, "text": "Dream Rub Robert EUr Kafka Hope Black Rub", "createdAt": 1679904937000}' to topic='twitter-topic'
+2023-03-27 11:15:47 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text crash Hamlet RED Robert Freedom Dream Kafka Hope Sun Robert Dream sending to kafka topic twitter-topic
+2023-03-27 11:15:47 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2553528682595949407, "id": 8783979344858252657, "text": "crash Hamlet RED Robert Freedom Dream Kafka Hope Sun Robert Dream", "createdAt": 1679904947000}' to topic='twitter-topic'
+2023-03-27 11:15:57 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text trouble Son Dream Robert Black Elasticsearch Elena dangerous EUr sending to kafka topic twitter-topic
+2023-03-27 11:15:57 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1882652426723032310, "id": 7044612362071758958, "text": "trouble Son Dream Robert Black Elasticsearch Elena dangerous EUr", "createdAt": 1679904957000}' to topic='twitter-topic'
+2023-03-27 11:16:07 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Happiness Robot crash Freedom Hope EUr dangerous Happiness Microservices dollar trouble dangerous White EUr solution Hamlet sending to kafka topic twitter-topic
+2023-03-27 11:16:07 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5514444567750240419, "id": 6742211861487273912, "text": "Happiness Robot crash Freedom Hope EUr dangerous Happiness Microservices dollar trouble dangerous White EUr solution Hamlet", "createdAt": 1679904967000}' to topic='twitter-topic'
+2023-03-27 11:16:17 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son Rub magna trouble Black Sun Kafka Hope Black Son crash solution sending to kafka topic twitter-topic
+2023-03-27 11:16:17 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7190140483711975026, "id": 8756670975561271416, "text": "Son Rub magna trouble Black Sun Kafka Hope Black Son crash solution", "createdAt": 1679904977000}' to topic='twitter-topic'
+2023-03-27 11:16:27 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dollar dollar decision trouble decision Sun Microservices Son decision Happiness White flat sending to kafka topic twitter-topic
+2023-03-27 11:16:27 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2827007671132601847, "id": 4116297250659338245, "text": "dollar dollar decision trouble decision Sun Microservices Son decision Happiness White flat", "createdAt": 1679904987000}' to topic='twitter-topic'
+2023-03-27 11:16:37 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text magna EUr Happiness Victor Victor solution Happiness Hope Kafka Hamlet Happiness Sun Robot EUr Rub sending to kafka topic twitter-topic
+2023-03-27 11:16:37 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2717172468609895160, "id": 4475429681935744938, "text": "magna EUr Happiness Victor Victor solution Happiness Hope Kafka Hamlet Happiness Sun Robot EUr Rub", "createdAt": 1679904997000}' to topic='twitter-topic'
+2023-03-27 11:16:47 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Happiness decision dollar dangerous flat RED Hope Victor Spring dangerous Elena Maksim magna Elena White sending to kafka topic twitter-topic
+2023-03-27 11:16:47 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 932110684984250078, "id": 2743709024898074896, "text": "Happiness decision dollar dangerous flat RED Hope Victor Spring dangerous Elena Maksim magna Elena White", "createdAt": 1679905007000}' to topic='twitter-topic'
+2023-03-27 11:16:57 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text RED Hamlet decision Victor crash magna Basilio Spring Elena dollar trouble dangerous RED sending to kafka topic twitter-topic
+2023-03-27 11:16:57 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6478712859459317242, "id": 8978670393806272389, "text": "RED Hamlet decision Victor crash magna Basilio Spring Elena dollar trouble dangerous RED", "createdAt": 1679905017000}' to topic='twitter-topic'
+2023-03-27 11:17:07 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dollar decision Happiness Hope decision Elena Robot crash Elasticsearch solution Rub dangerous Hope Hamlet dollar flat sending to kafka topic twitter-topic
+2023-03-27 11:17:07 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8857552799679406217, "id": 2593310621812214893, "text": "dollar decision Happiness Hope decision Elena Robot crash Elasticsearch solution Rub dangerous Hope Hamlet dollar flat", "createdAt": 1679905027000}' to topic='twitter-topic'
+2023-03-27 11:17:17 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Maksim Son EUr Happiness Dream Dream Kafka RED Maksim trouble Happiness Basilio sending to kafka topic twitter-topic
+2023-03-27 11:17:17 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7324729060345777607, "id": 420721969726415894, "text": "Maksim Son EUr Happiness Dream Dream Kafka RED Maksim trouble Happiness Basilio", "createdAt": 1679905037000}' to topic='twitter-topic'
+2023-03-27 11:17:27 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text solution Robert Black Spring crash Sun sending to kafka topic twitter-topic
+2023-03-27 11:17:27 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2947432135503907484, "id": 3607239987681478201, "text": "solution Robert Black Spring crash Sun", "createdAt": 1679905047000}' to topic='twitter-topic'
+2023-03-27 11:17:37 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robot dollar Elena Hope Robot Black Hope Spring EUr Black flat Dream White Basilio sending to kafka topic twitter-topic
+2023-03-27 11:17:37 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1742275688787434898, "id": 243838106320135488, "text": "Robot dollar Elena Hope Robot Black Hope Spring EUr Black flat Dream White Basilio", "createdAt": 1679905057000}' to topic='twitter-topic'
+2023-03-27 11:17:47 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text decision Hope Robert flat decision Freedom Basilio flat Spring Hope Hamlet Victor Happiness trouble flat sending to kafka topic twitter-topic
+2023-03-27 11:17:47 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3942243476553376254, "id": 1950445463990880153, "text": "decision Hope Robert flat decision Freedom Basilio flat Spring Hope Hamlet Victor Happiness trouble flat", "createdAt": 1679905067000}' to topic='twitter-topic'
+2023-03-27 11:17:57 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son Freedom White magna dangerous Robert Kafka flat decision solution trouble White sending to kafka topic twitter-topic
+2023-03-27 11:17:57 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3999047613502632833, "id": 6469081748626056734, "text": "Son Freedom White magna dangerous Robert Kafka flat decision solution trouble White", "createdAt": 1679905077000}' to topic='twitter-topic'
+2023-03-27 11:18:07 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Rub dangerous trouble Robot Elena Victor dangerous Rub Microservices Robot Hope trouble EUr Happiness dangerous EUr sending to kafka topic twitter-topic
+2023-03-27 11:18:07 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8403248291038536636, "id": 3000368792832765387, "text": "Rub dangerous trouble Robot Elena Victor dangerous Rub Microservices Robot Hope trouble EUr Happiness dangerous EUr", "createdAt": 1679905087000}' to topic='twitter-topic'
+2023-03-27 11:18:17 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hope Hope trouble Rub Elasticsearch Freedom RED flat sending to kafka topic twitter-topic
+2023-03-27 11:18:17 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5861371794568797304, "id": 7095213557938790914, "text": "Hope Hope trouble Rub Elasticsearch Freedom RED flat", "createdAt": 1679905097000}' to topic='twitter-topic'
+2023-03-27 11:18:27 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son crash Maksim Microservices Rub Son sending to kafka topic twitter-topic
+2023-03-27 11:18:27 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7949817232205367635, "id": 6204799131971282288, "text": "Son crash Maksim Microservices Rub Son", "createdAt": 1679905107000}' to topic='twitter-topic'
+2023-03-27 11:18:37 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Sun Son Basilio Robot Kafka Happiness Maksim sending to kafka topic twitter-topic
+2023-03-27 11:18:37 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8689132442670879209, "id": 5571528393898037599, "text": "Sun Son Basilio Robot Kafka Happiness Maksim", "createdAt": 1679905117000}' to topic='twitter-topic'
+2023-03-27 11:18:47 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text trouble Robot RED RED Black Elasticsearch Hope Robert Happiness EUr sending to kafka topic twitter-topic
+2023-03-27 11:18:47 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 395877028799010745, "id": 2583063303956269833, "text": "trouble Robot RED RED Black Elasticsearch Hope Robert Happiness EUr", "createdAt": 1679905127000}' to topic='twitter-topic'
+2023-03-27 11:18:57 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dollar Robot Son Victor Elasticsearch Freedom Hamlet Happiness sending to kafka topic twitter-topic
+2023-03-27 11:18:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1528926826429635036, "id": 6803885225852527053, "text": "dollar Robot Son Victor Elasticsearch Freedom Hamlet Happiness", "createdAt": 1679905137000}' to topic='twitter-topic'
+2023-03-27 11:19:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Sun Basilio Victor flat Dream dangerous Kafka RED Robert Robert Basilio Sun sending to kafka topic twitter-topic
+2023-03-27 11:19:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3411505912982645872, "id": 4978406677738272400, "text": "Sun Basilio Victor flat Dream dangerous Kafka RED Robert Robert Basilio Sun", "createdAt": 1679905148000}' to topic='twitter-topic'
+2023-03-27 11:19:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dangerous Hope dangerous Victor Java White RED Rub sending to kafka topic twitter-topic
+2023-03-27 11:19:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8669486070448638597, "id": 1328982871227822264, "text": "dangerous Hope dangerous Victor Java White RED Rub", "createdAt": 1679905158000}' to topic='twitter-topic'
+2023-03-27 11:19:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Maksim Freedom Freedom RED Hamlet RED trouble Happiness Elasticsearch RED Robert decision Basilio Hamlet Basilio crash sending to kafka topic twitter-topic
+2023-03-27 11:19:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2674449674561317220, "id": 3699799556319880658, "text": "Maksim Freedom Freedom RED Hamlet RED trouble Happiness Elasticsearch RED Robert decision Basilio Hamlet Basilio crash", "createdAt": 1679905168000}' to topic='twitter-topic'
+2023-03-27 11:19:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robot Son RED Robot solution dangerous EUr Spring Basilio Robert Sun Maksim Rub sending to kafka topic twitter-topic
+2023-03-27 11:19:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2086906285560983088, "id": 3496028752772788339, "text": "Robot Son RED Robot solution dangerous EUr Spring Basilio Robert Sun Maksim Rub", "createdAt": 1679905178000}' to topic='twitter-topic'
+2023-03-27 11:19:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hamlet flat Freedom solution Elasticsearch Victor Robert sending to kafka topic twitter-topic
+2023-03-27 11:19:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1549382017341987095, "id": 4241491242360961722, "text": "Hamlet flat Freedom solution Elasticsearch Victor Robert", "createdAt": 1679905188000}' to topic='twitter-topic'
+2023-03-27 11:19:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Sun Maksim decision Freedom Kafka Hamlet Elena Sun sending to kafka topic twitter-topic
+2023-03-27 11:19:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3889774807709476961, "id": 600276721666845505, "text": "Sun Maksim decision Freedom Kafka Hamlet Elena Sun", "createdAt": 1679905198000}' to topic='twitter-topic'
+2023-03-27 11:20:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hamlet Victor Elena Victor Hope Spring decision Robot trouble sending to kafka topic twitter-topic
+2023-03-27 11:20:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6357215377133714668, "id": 2782712941032354898, "text": "Hamlet Victor Elena Victor Hope Spring decision Robot trouble", "createdAt": 1679905208000}' to topic='twitter-topic'
+2023-03-27 11:20:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hamlet solution Black decision Kafka Victor Victor sending to kafka topic twitter-topic
+2023-03-27 11:20:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6508586691750672983, "id": 1899779759752414408, "text": "Hamlet solution Black decision Kafka Victor Victor", "createdAt": 1679905218000}' to topic='twitter-topic'
+2023-03-27 11:20:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dollar Elena flat RED Maksim Kafka magna Robert Black Elena sending to kafka topic twitter-topic
+2023-03-27 11:20:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3335913065384074785, "id": 6242672616051248581, "text": "dollar Elena flat RED Maksim Kafka magna Robert Black Elena", "createdAt": 1679905228000}' to topic='twitter-topic'
+2023-03-27 11:20:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Maksim Rub Maksim Robert Spring Basilio Victor Hamlet sending to kafka topic twitter-topic
+2023-03-27 11:20:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1821604992288853235, "id": 8562861698657176879, "text": "Maksim Rub Maksim Robert Spring Basilio Victor Hamlet", "createdAt": 1679905238000}' to topic='twitter-topic'
+2023-03-27 11:20:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Rub Basilio Victor Hope dollar Sun Microservices EUr Dream White magna Son sending to kafka topic twitter-topic
+2023-03-27 11:20:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8042941542847690819, "id": 1084669867919473765, "text": "Rub Basilio Victor Hope dollar Sun Microservices EUr Dream White magna Son", "createdAt": 1679905248000}' to topic='twitter-topic'
+2023-03-27 11:20:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Victor Hope Elena Java Sun EUr sending to kafka topic twitter-topic
+2023-03-27 11:20:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3945490611938413357, "id": 8011126972509408335, "text": "Victor Hope Elena Java Sun EUr", "createdAt": 1679905258000}' to topic='twitter-topic'
+2023-03-27 11:21:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text RED Sun dangerous Black Son Son Sun Elasticsearch crash trouble White magna Maksim Victor sending to kafka topic twitter-topic
+2023-03-27 11:21:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6317261320485974365, "id": 7686133603547338437, "text": "RED Sun dangerous Black Son Son Sun Elasticsearch crash trouble White magna Maksim Victor", "createdAt": 1679905268000}' to topic='twitter-topic'
+2023-03-27 11:21:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text EUr Black Dream decision dollar Freedom RED Maksim Microservices Robot Hope Robert Robert Son Son sending to kafka topic twitter-topic
+2023-03-27 11:21:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2771724791193650320, "id": 7506317371770879771, "text": "EUr Black Dream decision dollar Freedom RED Maksim Microservices Robot Hope Robert Robert Son Son", "createdAt": 1679905278000}' to topic='twitter-topic'
+2023-03-27 11:21:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robot RED Elena RED Victor Spring Rub crash crash sending to kafka topic twitter-topic
+2023-03-27 11:21:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2742209154461362301, "id": 74781929738724352, "text": "Robot RED Elena RED Victor Spring Rub crash crash", "createdAt": 1679905288000}' to topic='twitter-topic'
+2023-03-27 11:21:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Rub Hope flat magna dangerous Hope RED dollar Java Victor flat Maksim trouble solution Robot Black sending to kafka topic twitter-topic
+2023-03-27 11:21:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7174605516576395478, "id": 5962933479034743431, "text": "Rub Hope flat magna dangerous Hope RED dollar Java Victor flat Maksim trouble solution Robot Black", "createdAt": 1679905298000}' to topic='twitter-topic'
+2023-03-27 11:21:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dangerous Victor EUr Hamlet Son Kafka Freedom Son Victor Sun sending to kafka topic twitter-topic
+2023-03-27 11:21:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5326723988840277433, "id": 2303749835343645905, "text": "dangerous Victor EUr Hamlet Son Kafka Freedom Son Victor Sun", "createdAt": 1679905308000}' to topic='twitter-topic'
+2023-03-27 11:21:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son White Maksim Microservices Maksim RED sending to kafka topic twitter-topic
+2023-03-27 11:21:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 38994801704377265, "id": 9165831283308895189, "text": "Son White Maksim Microservices Maksim RED", "createdAt": 1679905318000}' to topic='twitter-topic'
+2023-03-27 11:22:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Black Rub Sun solution Son Kafka RED decision EUr sending to kafka topic twitter-topic
+2023-03-27 11:22:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 236405650518560552, "id": 5770786934548824517, "text": "Black Rub Sun solution Son Kafka RED decision EUr", "createdAt": 1679905328000}' to topic='twitter-topic'
+2023-03-27 11:22:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Freedom trouble Victor Rub Elasticsearch crash dangerous White sending to kafka topic twitter-topic
+2023-03-27 11:22:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3037955785678682223, "id": 8950449159625272057, "text": "Freedom trouble Victor Rub Elasticsearch crash dangerous White", "createdAt": 1679905338000}' to topic='twitter-topic'
+2023-03-27 11:22:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text solution solution Robert dangerous Basilio crash Maksim Spring Son White EUr Happiness Freedom sending to kafka topic twitter-topic
+2023-03-27 11:22:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7691691317331873418, "id": 5591319675252489885, "text": "solution solution Robert dangerous Basilio crash Maksim Spring Son White EUr Happiness Freedom", "createdAt": 1679905348000}' to topic='twitter-topic'
+2023-03-27 11:22:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Basilio Black dangerous Hope Microservices Elena Son sending to kafka topic twitter-topic
+2023-03-27 11:22:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8631520210440265095, "id": 7768445281879115819, "text": "Basilio Black dangerous Hope Microservices Elena Son", "createdAt": 1679905358000}' to topic='twitter-topic'
+2023-03-27 11:22:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hope Son Victor Basilio Spring dangerous Rub sending to kafka topic twitter-topic
+2023-03-27 11:22:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1927608459901125434, "id": 6546133882609048265, "text": "Hope Son Victor Basilio Spring dangerous Rub", "createdAt": 1679905368000}' to topic='twitter-topic'
+2023-03-27 11:22:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Freedom Rub EUr Elena decision Kafka Rub decision dangerous sending to kafka topic twitter-topic
+2023-03-27 11:22:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4372466003560965874, "id": 8035433098421088094, "text": "Freedom Rub EUr Elena decision Kafka Rub decision dangerous", "createdAt": 1679905378000}' to topic='twitter-topic'
+2023-03-27 11:23:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Victor Rub trouble Robert Black solution Kafka Victor Maksim trouble Robot RED sending to kafka topic twitter-topic
+2023-03-27 11:23:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5299611483790108991, "id": 2511612696894659361, "text": "Victor Rub trouble Robert Black solution Kafka Victor Maksim trouble Robot RED", "createdAt": 1679905388000}' to topic='twitter-topic'
+2023-03-27 11:23:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Victor crash RED crash magna Microservices Maksim dangerous Happiness solution sending to kafka topic twitter-topic
+2023-03-27 11:23:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6702399431653935960, "id": 4570242542390058055, "text": "Victor crash RED crash magna Microservices Maksim dangerous Happiness solution", "createdAt": 1679905398000}' to topic='twitter-topic'
+2023-03-27 11:23:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Sun dollar White Black Dream dollar solution Kafka RED EUr Rub Happiness EUr Rub sending to kafka topic twitter-topic
+2023-03-27 11:23:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4390033281410872031, "id": 5072537578821529154, "text": "Sun dollar White Black Dream dollar solution Kafka RED EUr Rub Happiness EUr Rub", "createdAt": 1679905408000}' to topic='twitter-topic'
+2023-03-27 11:23:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text flat crash RED Sun Elasticsearch trouble Basilio sending to kafka topic twitter-topic
+2023-03-27 11:23:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8912513179052751113, "id": 9213913841351428349, "text": "flat crash RED Sun Elasticsearch trouble Basilio", "createdAt": 1679905418000}' to topic='twitter-topic'
+2023-03-27 11:23:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text EUr Freedom Maksim Happiness EUr Robot Microservices dollar solution solution Black Sun sending to kafka topic twitter-topic
+2023-03-27 11:23:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4466396536980084318, "id": 8699475089130073723, "text": "EUr Freedom Maksim Happiness EUr Robot Microservices dollar solution solution Black Sun", "createdAt": 1679905428000}' to topic='twitter-topic'
+2023-03-27 11:23:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Elena Maksim Robot dollar Rub flat Freedom Dream Elasticsearch Happiness Elena Black Hamlet crash Basilio sending to kafka topic twitter-topic
+2023-03-27 11:23:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 320340877180612963, "id": 6076824465531459443, "text": "Elena Maksim Robot dollar Rub flat Freedom Dream Elasticsearch Happiness Elena Black Hamlet crash Basilio", "createdAt": 1679905438000}' to topic='twitter-topic'
+2023-03-27 11:24:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dangerous Dream Maksim Hope Son flat Elena Java Victor Hope decision trouble Dream sending to kafka topic twitter-topic
+2023-03-27 11:24:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 525260395603273594, "id": 3126915759192216223, "text": "dangerous Dream Maksim Hope Son flat Elena Java Victor Hope decision trouble Dream", "createdAt": 1679905448000}' to topic='twitter-topic'
+2023-03-27 11:24:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robert Maksim Maksim Maksim Spring Happiness Hope sending to kafka topic twitter-topic
+2023-03-27 11:24:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8749085565836986252, "id": 1382237016357118909, "text": "Robert Maksim Maksim Maksim Spring Happiness Hope", "createdAt": 1679905458000}' to topic='twitter-topic'
+2023-03-27 11:24:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robot Hamlet RED Hamlet Spring RED flat sending to kafka topic twitter-topic
+2023-03-27 11:24:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4109845394570611467, "id": 6094461119430077466, "text": "Robot Hamlet RED Hamlet Spring RED flat", "createdAt": 1679905468000}' to topic='twitter-topic'
+2023-03-27 11:24:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robert Dream magna White Spring decision Freedom sending to kafka topic twitter-topic
+2023-03-27 11:24:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7226575971808568741, "id": 254890934954534736, "text": "Robert Dream magna White Spring decision Freedom", "createdAt": 1679905478000}' to topic='twitter-topic'
+2023-03-27 11:24:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dangerous Basilio EUr Robot Robot Hamlet Freedom Spring dollar Robert Elena Hamlet Rub sending to kafka topic twitter-topic
+2023-03-27 11:24:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6690812877471729408, "id": 6814461959617129025, "text": "dangerous Basilio EUr Robot Robot Hamlet Freedom Spring dollar Robert Elena Hamlet Rub", "createdAt": 1679905488000}' to topic='twitter-topic'
+2023-03-27 11:24:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Maksim Victor trouble Victor Microservices Freedom Hope sending to kafka topic twitter-topic
+2023-03-27 11:24:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 394210408414189904, "id": 3741459964983053158, "text": "Maksim Victor trouble Victor Microservices Freedom Hope", "createdAt": 1679905498000}' to topic='twitter-topic'
+2023-03-27 11:25:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text flat Victor EUr crash Freedom Maksim Spring Robert Maksim Maksim Hamlet sending to kafka topic twitter-topic
+2023-03-27 11:25:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4057106899497697724, "id": 7238077028879200192, "text": "flat Victor EUr crash Freedom Maksim Spring Robert Maksim Maksim Hamlet", "createdAt": 1679905508000}' to topic='twitter-topic'
+2023-03-27 11:25:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text solution Victor Dream dangerous Victor EUr dangerous Elena Kafka Happiness crash Hope Black Robert Son sending to kafka topic twitter-topic
+2023-03-27 11:25:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6922305988684410633, "id": 9133161650348729988, "text": "solution Victor Dream dangerous Victor EUr dangerous Elena Kafka Happiness crash Hope Black Robert Son", "createdAt": 1679905518000}' to topic='twitter-topic'
+2023-03-27 11:25:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Freedom Basilio Maksim dangerous Elasticsearch decision crash sending to kafka topic twitter-topic
+2023-03-27 11:25:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6514103812370725103, "id": 2624470225593469819, "text": "Freedom Basilio Maksim dangerous Elasticsearch decision crash", "createdAt": 1679905528000}' to topic='twitter-topic'
+2023-03-27 11:25:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Basilio Hope flat Victor magna Rub magna dangerous Elasticsearch Maksim White dollar magna Rub White Happiness sending to kafka topic twitter-topic
+2023-03-27 11:25:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7172823810589306271, "id": 3624439398341943461, "text": "Basilio Hope flat Victor magna Rub magna dangerous Elasticsearch Maksim White dollar magna Rub White Happiness", "createdAt": 1679905538000}' to topic='twitter-topic'
+2023-03-27 11:25:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robot crash Rub Kafka flat solution sending to kafka topic twitter-topic
+2023-03-27 11:25:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3635024410912521113, "id": 5280801546844902028, "text": "Robot crash Rub Kafka flat solution", "createdAt": 1679905548000}' to topic='twitter-topic'
+2023-03-27 11:25:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text RED Sun EUr Rub Sun Freedom Black dangerous Java Maksim crash Rub flat Son Hamlet sending to kafka topic twitter-topic
+2023-03-27 11:25:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1369985903847033109, "id": 4167167685878038887, "text": "RED Sun EUr Rub Sun Freedom Black dangerous Java Maksim crash Rub flat Son Hamlet", "createdAt": 1679905558000}' to topic='twitter-topic'
+2023-03-27 11:26:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Dream Freedom Basilio RED Java dangerous dangerous crash sending to kafka topic twitter-topic
+2023-03-27 11:26:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7957104913145826545, "id": 1725865111737930131, "text": "Dream Freedom Basilio RED Java dangerous dangerous crash", "createdAt": 1679905568000}' to topic='twitter-topic'
+2023-03-27 11:26:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son Robot Robot Hope Rub Dream Happiness Black Spring solution decision Happiness Robert Elena Happiness sending to kafka topic twitter-topic
+2023-03-27 11:26:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7532998004749320661, "id": 8793184621535294437, "text": "Son Robot Robot Hope Rub Dream Happiness Black Spring solution decision Happiness Robert Elena Happiness", "createdAt": 1679905578000}' to topic='twitter-topic'
+2023-03-27 11:26:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text RED EUr Robot solution Elena Maksim flat Elasticsearch Maksim dollar Basilio dangerous decision sending to kafka topic twitter-topic
+2023-03-27 11:26:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5485988090553781575, "id": 8411052520401874189, "text": "RED EUr Robot solution Elena Maksim flat Elasticsearch Maksim dollar Basilio dangerous decision", "createdAt": 1679905588000}' to topic='twitter-topic'
+2023-03-27 11:26:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Rub flat Sun Elasticsearch Hamlet Maksim sending to kafka topic twitter-topic
+2023-03-27 11:26:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1139778839806828439, "id": 2625497972194492813, "text": "Rub flat Sun Elasticsearch Hamlet Maksim", "createdAt": 1679905598000}' to topic='twitter-topic'
+2023-03-27 11:26:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son Robot trouble RED solution Microservices Freedom Son Rub sending to kafka topic twitter-topic
+2023-03-27 11:26:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6500509252508482434, "id": 2052758529578546187, "text": "Son Robot trouble RED solution Microservices Freedom Son Rub", "createdAt": 1679905608000}' to topic='twitter-topic'
+2023-03-27 11:26:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text magna White trouble flat Rub dollar Victor Kafka dollar Black EUr RED dollar Son sending to kafka topic twitter-topic
+2023-03-27 11:26:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7791766897300329277, "id": 7488840590580779756, "text": "magna White trouble flat Rub dollar Victor Kafka dollar Black EUr RED dollar Son", "createdAt": 1679905618000}' to topic='twitter-topic'
+2023-03-27 11:27:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text magna decision Son Son Spring Hope dangerous crash sending to kafka topic twitter-topic
+2023-03-27 11:27:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5072052907025496550, "id": 1868015818352048948, "text": "magna decision Son Son Spring Hope dangerous crash", "createdAt": 1679905628000}' to topic='twitter-topic'
+2023-03-27 11:27:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Freedom trouble Sun Son Basilio Hope Elasticsearch Dream White Freedom Rub Dream sending to kafka topic twitter-topic
+2023-03-27 11:27:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6209674712322979549, "id": 8961448565859722981, "text": "Freedom trouble Sun Son Basilio Hope Elasticsearch Dream White Freedom Rub Dream", "createdAt": 1679905638000}' to topic='twitter-topic'
+2023-03-27 11:27:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Happiness EUr dangerous crash Victor Kafka Victor flat Hamlet sending to kafka topic twitter-topic
+2023-03-27 11:27:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8404772616492745832, "id": 2517339894625047130, "text": "Happiness EUr dangerous crash Victor Kafka Victor flat Hamlet", "createdAt": 1679905648000}' to topic='twitter-topic'
+2023-03-27 11:27:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dangerous Basilio Black crash White Elasticsearch Freedom Elena Robert sending to kafka topic twitter-topic
+2023-03-27 11:27:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 501437696598233523, "id": 4172311994127125464, "text": "dangerous Basilio Black crash White Elasticsearch Freedom Elena Robert", "createdAt": 1679905658000}' to topic='twitter-topic'
+2023-03-27 11:27:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text White Happiness Sun Basilio Hope Robot Robot Son Microservices Black decision solution Robot Dream dangerous Sun sending to kafka topic twitter-topic
+2023-03-27 11:27:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4224622103457602024, "id": 8786477555822039317, "text": "White Happiness Sun Basilio Hope Robot Robot Son Microservices Black decision solution Robot Dream dangerous Sun", "createdAt": 1679905668000}' to topic='twitter-topic'
+2023-03-27 11:27:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text decision Happiness decision Black Son EUr Freedom Microservices dangerous decision Maksim Elena Hamlet sending to kafka topic twitter-topic
+2023-03-27 11:27:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3929630133408749042, "id": 6675554698624400053, "text": "decision Happiness decision Black Son EUr Freedom Microservices dangerous decision Maksim Elena Hamlet", "createdAt": 1679905678000}' to topic='twitter-topic'
+2023-03-27 11:28:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text trouble Black dollar EUr Rub trouble Kafka Robot Rub trouble dangerous sending to kafka topic twitter-topic
+2023-03-27 11:28:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1353381181222899681, "id": 769138325807671570, "text": "trouble Black dollar EUr Rub trouble Kafka Robot Rub trouble dangerous", "createdAt": 1679905688000}' to topic='twitter-topic'
+2023-03-27 11:28:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hope RED Basilio Java RED Robot sending to kafka topic twitter-topic
+2023-03-27 11:28:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3168129917975010656, "id": 8008065215221159004, "text": "Hope RED Basilio Java RED Robot", "createdAt": 1679905698000}' to topic='twitter-topic'
+2023-03-27 11:28:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dollar Son Freedom Black Elasticsearch Maksim White Rub sending to kafka topic twitter-topic
+2023-03-27 11:28:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6013155531640772978, "id": 1484592439101739719, "text": "dollar Son Freedom Black Elasticsearch Maksim White Rub", "createdAt": 1679905708000}' to topic='twitter-topic'
+2023-03-27 11:28:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Sun Black Rub Hamlet dollar Basilio Hope dollar Microservices magna Dream Dream crash flat Robot Robert sending to kafka topic twitter-topic
+2023-03-27 11:28:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4614872773093599387, "id": 2411903355422599650, "text": "Sun Black Rub Hamlet dollar Basilio Hope dollar Microservices magna Dream Dream crash flat Robot Robert", "createdAt": 1679905718000}' to topic='twitter-topic'
+2023-03-27 11:28:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robert solution Hope RED solution Sun Happiness Victor Kafka Rub crash magna Black trouble Victor sending to kafka topic twitter-topic
+2023-03-27 11:28:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8740751674755316197, "id": 6819611363495144114, "text": "Robert solution Hope RED solution Sun Happiness Victor Kafka Rub crash magna Black trouble Victor", "createdAt": 1679905728000}' to topic='twitter-topic'
+2023-03-27 11:28:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Rub crash Happiness solution decision Hope Maksim decision Java flat Son magna Son decision Robot Maksim sending to kafka topic twitter-topic
+2023-03-27 11:28:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 412396343266819647, "id": 5964977006639955266, "text": "Rub crash Happiness solution decision Hope Maksim decision Java flat Son magna Son decision Robot Maksim", "createdAt": 1679905738000}' to topic='twitter-topic'
+2023-03-27 11:29:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son dangerous RED Elena Happiness dollar EUr dangerous Elasticsearch RED RED Hope Hope magna dangerous sending to kafka topic twitter-topic
+2023-03-27 11:29:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4365798445323250819, "id": 3195128649849264273, "text": "Son dangerous RED Elena Happiness dollar EUr dangerous Elasticsearch RED RED Hope Hope magna dangerous", "createdAt": 1679905748000}' to topic='twitter-topic'
+2023-03-27 11:29:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son Son Black Freedom Victor Java Victor dollar Hope sending to kafka topic twitter-topic
+2023-03-27 11:29:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7909920628157207582, "id": 1123045560855244233, "text": "Son Son Black Freedom Victor Java Victor dollar Hope", "createdAt": 1679905758000}' to topic='twitter-topic'
+2023-03-27 11:29:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text magna RED Elena Elasticsearch Basilio flat sending to kafka topic twitter-topic
+2023-03-27 11:29:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1129399245294211863, "id": 5277304585108136684, "text": "magna RED Elena Elasticsearch Basilio flat", "createdAt": 1679905768000}' to topic='twitter-topic'
+2023-03-27 11:29:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robert Maksim Maksim Victor EUr RED Kafka RED EUr Hope RED sending to kafka topic twitter-topic
+2023-03-27 11:29:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2870966918178144240, "id": 7623221684558594948, "text": "Robert Maksim Maksim Victor EUr RED Kafka RED EUr Hope RED", "createdAt": 1679905778000}' to topic='twitter-topic'
+2023-03-27 11:29:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dollar Black dangerous Robot solution Robot trouble Spring Hamlet crash solution EUr Victor Rub sending to kafka topic twitter-topic
+2023-03-27 11:29:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3744642337443549488, "id": 2429937106078779506, "text": "dollar Black dangerous Robot solution Robot trouble Spring Hamlet crash solution EUr Victor Rub", "createdAt": 1679905788000}' to topic='twitter-topic'
+2023-03-27 11:29:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son crash dollar Maksim Sun White Dream Java crash Robot Rub White Black sending to kafka topic twitter-topic
+2023-03-27 11:29:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7252787856431482733, "id": 6529498832648812940, "text": "Son crash dollar Maksim Sun White Dream Java crash Robot Rub White Black", "createdAt": 1679905798000}' to topic='twitter-topic'
+2023-03-27 11:30:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text crash Victor Rub Happiness dangerous solution Microservices trouble trouble Maksim magna sending to kafka topic twitter-topic
+2023-03-27 11:30:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3296246569969756087, "id": 6068400686532088362, "text": "crash Victor Rub Happiness dangerous solution Microservices trouble trouble Maksim magna", "createdAt": 1679905808000}' to topic='twitter-topic'
+2023-03-27 11:30:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text White dollar dangerous Basilio dangerous Elasticsearch solution Black Victor sending to kafka topic twitter-topic
+2023-03-27 11:30:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5060147971287690937, "id": 9058024064021019289, "text": "White dollar dangerous Basilio dangerous Elasticsearch solution Black Victor", "createdAt": 1679905818000}' to topic='twitter-topic'
+2023-03-27 11:30:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text White Basilio Hamlet flat dollar RED dangerous Robot Kafka EUr trouble Maksim Maksim magna decision sending to kafka topic twitter-topic
+2023-03-27 11:30:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3029400339343646534, "id": 5573267114523520869, "text": "White Basilio Hamlet flat dollar RED dangerous Robot Kafka EUr trouble Maksim Maksim magna decision", "createdAt": 1679905828000}' to topic='twitter-topic'
+2023-03-27 11:30:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text RED Hamlet Black Sun Elena crash Rub Elena Microservices Son Rub Robert solution Robot Hope sending to kafka topic twitter-topic
+2023-03-27 11:30:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3374909673770519301, "id": 2304567914166075260, "text": "RED Hamlet Black Sun Elena crash Rub Elena Microservices Son Rub Robert solution Robot Hope", "createdAt": 1679905838000}' to topic='twitter-topic'
+2023-03-27 11:30:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text magna Maksim decision flat Happiness EUr EUr Microservices Elena RED Happiness Happiness solution Black sending to kafka topic twitter-topic
+2023-03-27 11:30:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8639220478348348957, "id": 4853083155155130487, "text": "magna Maksim decision flat Happiness EUr EUr Microservices Elena RED Happiness Happiness solution Black", "createdAt": 1679905848000}' to topic='twitter-topic'
+2023-03-27 11:30:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dollar RED solution Black Spring Son EUr Rub sending to kafka topic twitter-topic
+2023-03-27 11:30:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5337402199784788873, "id": 5500959742537186973, "text": "dollar RED solution Black Spring Son EUr Rub", "createdAt": 1679905858000}' to topic='twitter-topic'
+2023-03-27 11:31:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Dream Freedom Freedom Hope flat dangerous Spring White Son Elena Dream sending to kafka topic twitter-topic
+2023-03-27 11:31:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3058300084724133387, "id": 1006369149781508309, "text": "Dream Freedom Freedom Hope flat dangerous Spring White Son Elena Dream", "createdAt": 1679905868000}' to topic='twitter-topic'
+2023-03-27 11:31:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Victor Robot RED Maksim crash Victor White Microservices solution trouble crash RED trouble sending to kafka topic twitter-topic
+2023-03-27 11:31:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8336143465919828400, "id": 5963340411614025147, "text": "Victor Robot RED Maksim crash Victor White Microservices solution trouble crash RED trouble", "createdAt": 1679905878000}' to topic='twitter-topic'
+2023-03-27 11:31:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robot dollar Basilio magna Freedom Elena dollar Java solution Hope dollar Robot Basilio Hope sending to kafka topic twitter-topic
+2023-03-27 11:31:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8469173199095172976, "id": 5345280630920305628, "text": "Robot dollar Basilio magna Freedom Elena dollar Java solution Hope dollar Robot Basilio Hope", "createdAt": 1679905888000}' to topic='twitter-topic'
+2023-03-27 11:31:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robot Sun Victor crash trouble Java Hamlet Freedom EUr Black sending to kafka topic twitter-topic
+2023-03-27 11:31:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8810783138091791530, "id": 6126601940027780936, "text": "Robot Sun Victor crash trouble Java Hamlet Freedom EUr Black", "createdAt": 1679905898000}' to topic='twitter-topic'
+2023-03-27 11:31:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Happiness magna Sun Son Robot Victor Basilio solution Spring dangerous Dream Basilio Son Dream Dream sending to kafka topic twitter-topic
+2023-03-27 11:31:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6081358573260638256, "id": 856592323892229963, "text": "Happiness magna Sun Son Robot Victor Basilio solution Spring dangerous Dream Basilio Son Dream Dream", "createdAt": 1679905908000}' to topic='twitter-topic'
+2023-03-27 11:31:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Freedom Maksim decision Java Son Happiness sending to kafka topic twitter-topic
+2023-03-27 11:31:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4676169611021981993, "id": 4115051669986344134, "text": "Freedom Maksim decision Java Son Happiness", "createdAt": 1679905918000}' to topic='twitter-topic'
+2023-03-27 11:32:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text RED Freedom Robot Dream trouble Robert Spring Robert Hamlet Hamlet crash crash sending to kafka topic twitter-topic
+2023-03-27 11:32:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1284290190364667035, "id": 336801077194568623, "text": "RED Freedom Robot Dream trouble Robert Spring Robert Hamlet Hamlet crash crash", "createdAt": 1679905928000}' to topic='twitter-topic'
+2023-03-27 11:32:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son Son Hope Basilio Rub Rub Elasticsearch RED flat Happiness Victor sending to kafka topic twitter-topic
+2023-03-27 11:32:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5018343871475428595, "id": 6532729695401853119, "text": "Son Son Hope Basilio Rub Rub Elasticsearch RED flat Happiness Victor", "createdAt": 1679905938000}' to topic='twitter-topic'
+2023-03-27 11:32:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dangerous Elena Sun Black White Java White trouble Hamlet sending to kafka topic twitter-topic
+2023-03-27 11:32:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1811425325024065974, "id": 2797165265339442134, "text": "dangerous Elena Sun Black White Java White trouble Hamlet", "createdAt": 1679905948000}' to topic='twitter-topic'
+2023-03-27 11:32:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text solution trouble Elena crash Basilio White Elasticsearch Elena Maksim EUr magna sending to kafka topic twitter-topic
+2023-03-27 11:32:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8672112402912945921, "id": 6655007829736824393, "text": "solution trouble Elena crash Basilio White Elasticsearch Elena Maksim EUr magna", "createdAt": 1679905958000}' to topic='twitter-topic'
+2023-03-27 11:32:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text White Maksim Freedom Dream Black Java Rub Freedom Robot sending to kafka topic twitter-topic
+2023-03-27 11:32:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3724776906598825443, "id": 5998850986384727904, "text": "White Maksim Freedom Dream Black Java Rub Freedom Robot", "createdAt": 1679905968000}' to topic='twitter-topic'
+2023-03-27 11:32:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Basilio Basilio Elena Dream Microservices Dream dangerous Rub sending to kafka topic twitter-topic
+2023-03-27 11:32:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4213318277884503314, "id": 456239062970283224, "text": "Basilio Basilio Elena Dream Microservices Dream dangerous Rub", "createdAt": 1679905978000}' to topic='twitter-topic'
+2023-03-27 11:33:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Freedom solution decision Basilio Robot Kafka decision Black Victor sending to kafka topic twitter-topic
+2023-03-27 11:33:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3562344794803105323, "id": 4507445032958119164, "text": "Freedom solution decision Basilio Robot Kafka decision Black Victor", "createdAt": 1679905988000}' to topic='twitter-topic'
+2023-03-27 11:33:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text decision EUr Robot magna Hope Hamlet Elasticsearch trouble Robot dollar Maksim Rub sending to kafka topic twitter-topic
+2023-03-27 11:33:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8610706541633096275, "id": 8452320125636932015, "text": "decision EUr Robot magna Hope Hamlet Elasticsearch trouble Robot dollar Maksim Rub", "createdAt": 1679905998000}' to topic='twitter-topic'
+2023-03-27 11:33:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Elena Hamlet dangerous RED decision Java Happiness Happiness Robot decision sending to kafka topic twitter-topic
+2023-03-27 11:33:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5081067225341543423, "id": 1813847181954884868, "text": "Elena Hamlet dangerous RED decision Java Happiness Happiness Robot decision", "createdAt": 1679906008000}' to topic='twitter-topic'
+2023-03-27 11:33:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text flat White crash White EUr Elasticsearch solution Dream Robert sending to kafka topic twitter-topic
+2023-03-27 11:33:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7877934714917863365, "id": 7372555152259710949, "text": "flat White crash White EUr Elasticsearch solution Dream Robert", "createdAt": 1679906018000}' to topic='twitter-topic'
+2023-03-27 11:33:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Happiness Hamlet dollar Sun Son Maksim RED EUr Elasticsearch flat Hope Hope dangerous Basilio Hamlet Victor sending to kafka topic twitter-topic
+2023-03-27 11:33:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5629037106948902041, "id": 7636140866139719883, "text": "Happiness Hamlet dollar Sun Son Maksim RED EUr Elasticsearch flat Hope Hope dangerous Basilio Hamlet Victor", "createdAt": 1679906028000}' to topic='twitter-topic'
+2023-03-27 11:33:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text White magna Happiness dollar Elena crash Hope dollar Kafka Robert Victor magna dangerous flat Freedom crash sending to kafka topic twitter-topic
+2023-03-27 11:33:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4712670510650699109, "id": 6448542539748755497, "text": "White magna Happiness dollar Elena crash Hope dollar Kafka Robert Victor magna dangerous flat Freedom crash", "createdAt": 1679906038000}' to topic='twitter-topic'
+2023-03-27 11:34:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text solution decision Hope trouble White Robot RED Microservices Robot dangerous Dream Son dollar sending to kafka topic twitter-topic
+2023-03-27 11:34:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3830887337145773821, "id": 5579254441374450789, "text": "solution decision Hope trouble White Robot RED Microservices Robot dangerous Dream Son dollar", "createdAt": 1679906048000}' to topic='twitter-topic'
+2023-03-27 11:34:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hamlet dollar Robert dollar Black Elena Victor Robot Kafka dangerous Maksim Sun Victor Hamlet White magna sending to kafka topic twitter-topic
+2023-03-27 11:34:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5558359528427210858, "id": 315476004368916843, "text": "Hamlet dollar Robert dollar Black Elena Victor Robot Kafka dangerous Maksim Sun Victor Hamlet White magna", "createdAt": 1679906058000}' to topic='twitter-topic'
+2023-03-27 11:34:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robert Black flat magna Hope Java magna Dream Hope Robot sending to kafka topic twitter-topic
+2023-03-27 11:34:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7180115901248689564, "id": 6614905909258925103, "text": "Robert Black flat magna Hope Java magna Dream Hope Robot", "createdAt": 1679906068000}' to topic='twitter-topic'
+2023-03-27 11:34:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text RED Rub trouble Robert Robot Microservices Son Hope Victor White sending to kafka topic twitter-topic
+2023-03-27 11:34:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4351179921837874762, "id": 2400085680827096315, "text": "RED Rub trouble Robert Robot Microservices Son Hope Victor White", "createdAt": 1679906078000}' to topic='twitter-topic'
+2023-03-27 11:34:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text RED Maksim Happiness Son Sun Basilio Java Basilio flat decision dollar sending to kafka topic twitter-topic
+2023-03-27 11:34:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 202115008733490720, "id": 4871295899234408099, "text": "RED Maksim Happiness Son Sun Basilio Java Basilio flat decision dollar", "createdAt": 1679906088000}' to topic='twitter-topic'
+2023-03-27 11:34:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Freedom trouble RED Black Kafka Hope Son Rub sending to kafka topic twitter-topic
+2023-03-27 11:34:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2228014485154759213, "id": 779114156900025691, "text": "Freedom trouble RED Black Kafka Hope Son Rub", "createdAt": 1679906098000}' to topic='twitter-topic'
+2023-03-27 11:35:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text RED Basilio solution magna Freedom EUr Spring Sun Rub RED Elena Elena sending to kafka topic twitter-topic
+2023-03-27 11:35:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8088684506827731198, "id": 5587352135908698640, "text": "RED Basilio solution magna Freedom EUr Spring Sun Rub RED Elena Elena", "createdAt": 1679906108000}' to topic='twitter-topic'
+2023-03-27 11:35:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Rub Son Hamlet Dream Dream Kafka solution flat EUr Robert sending to kafka topic twitter-topic
+2023-03-27 11:35:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8448048913658611625, "id": 9009497271274132394, "text": "Rub Son Hamlet Dream Dream Kafka solution flat EUr Robert", "createdAt": 1679906118000}' to topic='twitter-topic'
+2023-03-27 11:35:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text EUr Freedom Basilio dangerous Kafka dangerous trouble Black sending to kafka topic twitter-topic
+2023-03-27 11:35:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 642967120173507497, "id": 7787143754556270152, "text": "EUr Freedom Basilio dangerous Kafka dangerous trouble Black", "createdAt": 1679906128000}' to topic='twitter-topic'
+2023-03-27 11:35:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hope Happiness Robert Elasticsearch flat trouble sending to kafka topic twitter-topic
+2023-03-27 11:35:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3473124370133861905, "id": 762682544899974102, "text": "Hope Happiness Robert Elasticsearch flat trouble", "createdAt": 1679906138000}' to topic='twitter-topic'
+2023-03-27 11:35:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text trouble Robot dangerous Elena RED flat Basilio Spring Happiness decision Maksim Hope Hope flat sending to kafka topic twitter-topic
+2023-03-27 11:35:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2024595177357804605, "id": 7381928994178096527, "text": "trouble Robot dangerous Elena RED flat Basilio Spring Happiness decision Maksim Hope Hope flat", "createdAt": 1679906148000}' to topic='twitter-topic'
+2023-03-27 11:35:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Victor Maksim Robert flat decision Black Microservices Elena EUr Son Happiness Basilio sending to kafka topic twitter-topic
+2023-03-27 11:35:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 9058055660794282984, "id": 6204811378778897991, "text": "Victor Maksim Robert flat decision Black Microservices Elena EUr Son Happiness Basilio", "createdAt": 1679906158000}' to topic='twitter-topic'
+2023-03-27 11:36:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robot dollar Dream Freedom Kafka Black Freedom RED sending to kafka topic twitter-topic
+2023-03-27 11:36:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6422016907579293985, "id": 1029644212902842840, "text": "Robot dollar Dream Freedom Kafka Black Freedom RED", "createdAt": 1679906168000}' to topic='twitter-topic'
+2023-03-27 11:36:18 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Happiness trouble Robert Happiness crash Robot Microservices decision dollar Hamlet Dream solution sending to kafka topic twitter-topic
+2023-03-27 11:36:18 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1190334799148477738, "id": 2182122359512875744, "text": "Happiness trouble Robert Happiness crash Robot Microservices decision dollar Hamlet Dream solution", "createdAt": 1679906178000}' to topic='twitter-topic'
+2023-03-27 11:36:28 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text trouble decision Sun Hamlet Java dangerous Freedom sending to kafka topic twitter-topic
+2023-03-27 11:36:28 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8322494156223746399, "id": 2547227827356521063, "text": "trouble decision Sun Hamlet Java dangerous Freedom", "createdAt": 1679906188000}' to topic='twitter-topic'
+2023-03-27 11:36:38 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text RED Hope Rub Hope Maksim Hamlet Black solution Elasticsearch dangerous Hope flat crash Black solution trouble sending to kafka topic twitter-topic
+2023-03-27 11:36:38 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 93551292816207737, "id": 6668033600589341773, "text": "RED Hope Rub Hope Maksim Hamlet Black solution Elasticsearch dangerous Hope flat crash Black solution trouble", "createdAt": 1679906198000}' to topic='twitter-topic'
+2023-03-27 11:36:48 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text EUr Robert Black Hamlet White Dream Basilio Kafka Freedom Elena flat Robot Robert Robot sending to kafka topic twitter-topic
+2023-03-27 11:36:48 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7380411308269332306, "id": 854388941238969604, "text": "EUr Robert Black Hamlet White Dream Basilio Kafka Freedom Elena flat Robot Robert Robot", "createdAt": 1679906208000}' to topic='twitter-topic'
+2023-03-27 11:36:58 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text solution magna Sun Rub Kafka Rub Happiness sending to kafka topic twitter-topic
+2023-03-27 11:36:58 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2080146920442905126, "id": 5560204723514289196, "text": "solution magna Sun Rub Kafka Rub Happiness", "createdAt": 1679906218000}' to topic='twitter-topic'
+2023-03-27 11:37:08 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Dream RED Basilio magna Freedom Kafka Elena Robert dollar sending to kafka topic twitter-topic
+2023-03-27 11:37:08 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5167119961769708571, "id": 4347122848289982247, "text": "Dream RED Basilio magna Freedom Kafka Elena Robert dollar", "createdAt": 1679906228000}' to topic='twitter-topic'
+2023-03-27 11:37:13 [kafka-admin-client-thread | adminclient-2] INFO  o.a.kafka.common.utils.AppInfoParser - App info kafka.admin.client for adminclient-2 unregistered
+2023-03-27 11:37:13 [kafka-admin-client-thread | adminclient-2] INFO  o.a.kafka.common.metrics.Metrics - Metrics scheduler closed
+2023-03-27 11:37:13 [kafka-admin-client-thread | adminclient-2] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2023-03-27 11:37:13 [kafka-admin-client-thread | adminclient-2] INFO  o.a.kafka.common.metrics.Metrics - Metrics reporters closed
+2023-03-27 11:37:13 [SpringApplicationShutdownHook] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Closing kafka producer!
+2023-03-27 11:37:13 [SpringApplicationShutdownHook] INFO  o.a.k.clients.producer.KafkaProducer - [Producer clientId=producer-1] Closing the Kafka producer with timeoutMillis = 30000 ms.
+2023-03-27 11:37:13 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Metrics scheduler closed
+2023-03-27 11:37:13 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2023-03-27 11:37:13 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Metrics reporters closed
+2023-03-27 11:37:13 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.utils.AppInfoParser - App info kafka.producer for producer-1 unregistered
+2023-03-27 11:37:17 [restartedMain] INFO  c.k.ToKafkaServiceApplication - Starting ToKafkaServiceApplication using Java 11.0.2 on 00340753 with PID 31012 (/home/maksim/IdeaProjects/improving/s-toKafka-service/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 11:37:17 [restartedMain] INFO  c.k.ToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2023-03-27 11:37:17 [restartedMain] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Fetching config from server at : http://localhost:8888
+2023-03-27 11:37:17 [restartedMain] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Located environment: name=application, profiles=[default], label=null, version=2be8432f3b9803ee107ed405a2decbca7a9c50e0, state=null
+2023-03-27 11:37:17 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-27 11:37:17 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-27 11:37:18 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=7e288a27-8ba7-3704-8c83-d16e60bad29b
+2023-03-27 11:37:18 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 11:37:18 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 11:37:18 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 11:37:18 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 11:37:18 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 11:37:18 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1127 ms
+2023-03-27 11:37:18 [restartedMain] INFO  o.a.k.c.admin.AdminClientConfig - AdminClientConfig values: 
+	bootstrap.servers = [localhost:19092, localhost:29092, localhost:39092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2023-03-27 11:37:18 [restartedMain] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.0.0
+2023-03-27 11:37:18 [restartedMain] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 8cb0a5e9d3441962
+2023-03-27 11:37:18 [restartedMain] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1679906238934
+2023-03-27 11:37:18 [restartedMain] INFO  o.a.k.c.admin.AdminClientConfig - AdminClientConfig values: 
+	bootstrap.servers = [localhost:19092, localhost:29092, localhost:39092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2023-03-27 11:37:18 [restartedMain] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.0.0
+2023-03-27 11:37:18 [restartedMain] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 8cb0a5e9d3441962
+2023-03-27 11:37:18 [restartedMain] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1679906238941
+2023-03-27 11:37:19 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2023-03-27 11:37:19 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-03-27 11:37:19 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 11:37:19 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 11:37:19 [restartedMain] INFO  c.k.ToKafkaServiceApplication - Started ToKafkaServiceApplication in 2.996 seconds (JVM running for 3.757)
+2023-03-27 11:37:19 [restartedMain] INFO  c.k.ToKafkaServiceApplication - App starting.....
+2023-03-27 11:37:19 [restartedMain] INFO  c.m.v.i.k.a.client.KafkaAdminClient - Creating 1 topics(s), attempt 0
+2023-03-27 11:37:19 [restartedMain] INFO  c.m.v.i.k.a.client.KafkaAdminClient - Create topic result [KafkaFuture{value=null,exception=null,done=false}]
+2023-03-27 11:37:19 [restartedMain] INFO  c.m.v.i.k.a.client.KafkaAdminClient - Reading kafka topic [twitter-topic], attempt 0
+2023-03-27 11:37:19 [restartedMain] INFO  c.k.init.impl.KafkaStreamInitializer - Topics with name twitter-topic is ready for operations!
+2023-03-27 11:37:19 [restartedMain] INFO  c.k.r.impl.MockKafkaStreamRunner - Starting mock filter twitter streams for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-03-27 11:37:19 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text White Robert Black Son Black Microservices Son Freedom Basilio sending to kafka topic twitter-topic
+2023-03-27 11:37:19 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6671158365828535429, "id": 4138717035920711753, "text": "White Robert Black Son Black Microservices Son Freedom Basilio", "createdAt": 1679906239000}' to topic='twitter-topic'
+2023-03-27 11:37:19 [pool-1-thread-1] INFO  o.a.k.c.producer.ProducerConfig - ProducerConfig values: 
+	acks = -1
+	batch.size = 1638400
+	bootstrap.servers = [localhost:19092, localhost:29092, localhost:39092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-1
+	compression.type = snappy
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = true
+	interceptor.classes = []
+	key.serializer = class org.apache.kafka.common.serialization.LongSerializer
+	linger.ms = 5
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 60000
+	retries = 5
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class io.confluent.kafka.serializers.KafkaAvroSerializer
+
+2023-03-27 11:37:19 [pool-1-thread-1] INFO  i.c.k.s.KafkaAvroSerializerConfig - KafkaAvroSerializerConfig values: 
+	bearer.auth.token = [hidden]
+	proxy.port = -1
+	schema.reflection = false
+	auto.register.schemas = true
+	max.schemas.per.subject = 1000
+	basic.auth.credentials.source = URL
+	value.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+	schema.registry.url = [http://localhost:8081]
+	basic.auth.user.info = [hidden]
+	proxy.host = 
+	use.latest.version = false
+	schema.registry.basic.auth.user.info = [hidden]
+	bearer.auth.credentials.source = STATIC_TOKEN
+	key.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+
+2023-03-27 11:37:19 [pool-1-thread-1] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.0.0
+2023-03-27 11:37:19 [pool-1-thread-1] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 8cb0a5e9d3441962
+2023-03-27 11:37:19 [pool-1-thread-1] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1679906239844
+2023-03-27 11:37:19 [kafka-producer-network-thread | producer-1] INFO  org.apache.kafka.clients.Metadata - [Producer clientId=producer-1] Cluster ID: v0OXOM98Ru-jVowTnvauiQ
+2023-03-27 11:37:29 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dollar RED Elena flat Spring Robot White flat sending to kafka topic twitter-topic
+2023-03-27 11:37:29 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1108072023708914471, "id": 462023092891846511, "text": "dollar RED Elena flat Spring Robot White flat", "createdAt": 1679906249000}' to topic='twitter-topic'
+2023-03-27 11:37:39 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text decision Maksim trouble Elena Happiness Black Elasticsearch Happiness Victor Maksim Sun sending to kafka topic twitter-topic
+2023-03-27 11:37:39 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6650355248204389386, "id": 6157980068138955510, "text": "decision Maksim trouble Elena Happiness Black Elasticsearch Happiness Victor Maksim Sun", "createdAt": 1679906259000}' to topic='twitter-topic'
+2023-03-27 11:37:49 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Sun Son Son Dream Maksim White Robert trouble Java Black Son decision solution dollar dollar Maksim sending to kafka topic twitter-topic
+2023-03-27 11:37:49 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8047157820185803552, "id": 944570463093477487, "text": "Sun Son Son Dream Maksim White Robert trouble Java Black Son decision solution dollar dollar Maksim", "createdAt": 1679906269000}' to topic='twitter-topic'
+2023-03-27 11:37:59 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text decision Happiness Rub Rub crash Java magna White solution Basilio sending to kafka topic twitter-topic
+2023-03-27 11:37:59 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8952816816633350152, "id": 559893576359696376, "text": "decision Happiness Rub Rub crash Java magna White solution Basilio", "createdAt": 1679906279000}' to topic='twitter-topic'
+2023-03-27 11:38:09 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Victor RED White Elena Elasticsearch Maksim Basilio Maksim sending to kafka topic twitter-topic
+2023-03-27 11:38:09 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6046440711992256555, "id": 6752439954693141054, "text": "Victor RED White Elena Elasticsearch Maksim Basilio Maksim", "createdAt": 1679906289000}' to topic='twitter-topic'
+2023-03-27 11:38:19 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robot Hamlet Hope magna Hope Elasticsearch Hope Dream Elena Robot sending to kafka topic twitter-topic
+2023-03-27 11:38:19 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8206728447770977137, "id": 4089689212519942187, "text": "Robot Hamlet Hope magna Hope Elasticsearch Hope Dream Elena Robot", "createdAt": 1679906299000}' to topic='twitter-topic'
+2023-03-27 11:38:29 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text trouble Basilio Robert Freedom Hope Freedom White Sun Kafka RED RED dangerous Black Hope Robot crash sending to kafka topic twitter-topic
+2023-03-27 11:38:29 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7060006689561606784, "id": 1777341367549929243, "text": "trouble Basilio Robert Freedom Hope Freedom White Sun Kafka RED RED dangerous Black Hope Robot crash", "createdAt": 1679906309000}' to topic='twitter-topic'
+2023-03-27 11:38:39 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Rub solution Maksim Robot crash White Robot Sun Java Victor magna solution Black Son Sun trouble sending to kafka topic twitter-topic
+2023-03-27 11:38:39 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2096399353447782296, "id": 6693269302773613850, "text": "Rub solution Maksim Robot crash White Robot Sun Java Victor magna solution Black Son Sun trouble", "createdAt": 1679906319000}' to topic='twitter-topic'
