@@ -1,123 +1,270 @@
-2023-03-24 11:33:34 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2023-03-24 11:33:34 [restartedMain] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'configurationPropertiesBeans' defined in class path resource [org/springframework/cloud/autoconfigure/ConfigurationPropertiesRebinderAutoConfiguration.class]: Post-processing of merged bean definition failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [org.springframework.cloud.context.properties.ConfigurationPropertiesBeans] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17]
-2023-03-24 11:33:34 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+2023-03-27 11:08:04 [restartedMain] INFO  c.k.ToKafkaServiceApplication - Starting ToKafkaServiceApplication using Java 11.0.2 on 00340753 with PID 28532 (/home/maksim/IdeaProjects/improving/s-toKafka-service/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 11:08:04 [restartedMain] INFO  c.k.ToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2023-03-27 11:08:05 [restartedMain] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Fetching config from server at : http://localhost:8888
+2023-03-27 11:08:05 [restartedMain] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Located environment: name=application, profiles=[default], label=null, version=2be8432f3b9803ee107ed405a2decbca7a9c50e0, state=null
+2023-03-27 11:08:05 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-27 11:08:05 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-27 11:08:05 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=7e288a27-8ba7-3704-8c83-d16e60bad29b
+2023-03-27 11:08:06 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 11:08:06 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1122 ms
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.k.c.admin.AdminClientConfig - AdminClientConfig values: 
+	bootstrap.servers = [localhost:19092, localhost:29092, localhost:39092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
 
-Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
-2023-03-24 11:33:34 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'configurationPropertiesBeans' defined in class path resource [org/springframework/cloud/autoconfigure/ConfigurationPropertiesRebinderAutoConfiguration.class]: Post-processing of merged bean definition failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [org.springframework.cloud.context.properties.ConfigurationPropertiesBeans] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:597)
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
-	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:213)
-	at org.springframework.context.support.PostProcessorRegistrationDelegate.registerBeanPostProcessors(PostProcessorRegistrationDelegate.java:270)
-	at org.springframework.context.support.AbstractApplicationContext.registerBeanPostProcessors(AbstractApplicationContext.java:762)
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:567)
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:414)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
-	at org.springframework.boot.builder.SpringApplicationBuilder.run(SpringApplicationBuilder.java:164)
-	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:212)
-	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:117)
-	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:74)
-	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:176)
-	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:169)
-	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:143)
-	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:131)
-	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:85)
-	at org.springframework.boot.SpringApplicationRunListeners.lambda$environmentPrepared$2(SpringApplicationRunListeners.java:66)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
-	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:120)
-	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:114)
-	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:65)
-	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:338)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:296)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
-	at com.kafkaservice.ToKafkaServiceApplication.main(ToKafkaServiceApplication.java:36)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
-Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springframework.cloud.context.properties.ConfigurationPropertiesBeans] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17]
-	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481)
-	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:321)
-	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:232)
-	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:210)
-	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:149)
-	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:305)
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1116)
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
-	... 35 common frames omitted
-Caused by: java.lang.NoClassDefFoundError: org/springframework/boot/context/properties/ConfigurationBeanFactoryMetadata
-	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
-	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3167)
-	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2310)
-	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463)
-	... 42 common frames omitted
-Caused by: java.lang.ClassNotFoundException: org.springframework.boot.context.properties.ConfigurationBeanFactoryMetadata
-	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:583)
-	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
-	... 46 common frames omitted
-2023-03-24 11:33:34 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
-org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'configurationPropertiesBeans' defined in class path resource [org/springframework/cloud/autoconfigure/ConfigurationPropertiesRebinderAutoConfiguration.class]: Post-processing of merged bean definition failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [org.springframework.cloud.context.properties.ConfigurationPropertiesBeans] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17]
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:597)
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
-	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
-	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
-	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
-	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:213)
-	at org.springframework.context.support.PostProcessorRegistrationDelegate.registerBeanPostProcessors(PostProcessorRegistrationDelegate.java:270)
-	at org.springframework.context.support.AbstractApplicationContext.registerBeanPostProcessors(AbstractApplicationContext.java:762)
-	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:567)
-	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
-	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:414)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
-	at org.springframework.boot.builder.SpringApplicationBuilder.run(SpringApplicationBuilder.java:164)
-	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:212)
-	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:117)
-	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:74)
-	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:176)
-	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:169)
-	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:143)
-	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:131)
-	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:85)
-	at org.springframework.boot.SpringApplicationRunListeners.lambda$environmentPrepared$2(SpringApplicationRunListeners.java:66)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1540)
-	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:120)
-	at org.springframework.boot.SpringApplicationRunListeners.doWithListeners(SpringApplicationRunListeners.java:114)
-	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:65)
-	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:338)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:296)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
-	at com.kafkaservice.ToKafkaServiceApplication.main(ToKafkaServiceApplication.java:36)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
-Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springframework.cloud.context.properties.ConfigurationPropertiesBeans] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17]
-	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481)
-	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:321)
-	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.buildLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:232)
-	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.findLifecycleMetadata(InitDestroyAnnotationBeanPostProcessor.java:210)
-	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(InitDestroyAnnotationBeanPostProcessor.java:149)
-	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:305)
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1116)
-	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
-	... 35 common frames omitted
-Caused by: java.lang.NoClassDefFoundError: org/springframework/boot/context/properties/ConfigurationBeanFactoryMetadata
-	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
-	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3167)
-	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2310)
-	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463)
-	... 42 common frames omitted
-Caused by: java.lang.ClassNotFoundException: org.springframework.boot.context.properties.ConfigurationBeanFactoryMetadata
-	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:583)
-	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
-	... 46 common frames omitted
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.0.0
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 8cb0a5e9d3441962
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1679904486316
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.k.c.admin.AdminClientConfig - AdminClientConfig values: 
+	bootstrap.servers = [localhost:19092, localhost:29092, localhost:39092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = 
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.0.0
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 8cb0a5e9d3441962
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1679904486322
+2023-03-27 11:08:06 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2023-03-27 11:08:06 [restartedMain] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-03-27 11:08:06 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-03-27 11:08:06 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-03-27 11:08:06 [restartedMain] INFO  c.k.ToKafkaServiceApplication - Started ToKafkaServiceApplication in 4.811 seconds (JVM running for 5.621)
+2023-03-27 11:08:06 [restartedMain] INFO  c.k.ToKafkaServiceApplication - App starting.....
+2023-03-27 11:08:06 [restartedMain] INFO  c.m.v.i.k.a.client.KafkaAdminClient - Creating 1 topics(s), attempt 0
+2023-03-27 11:08:06 [restartedMain] INFO  c.m.v.i.k.a.client.KafkaAdminClient - Create topic result [KafkaFuture{value=null,exception=null,done=false}]
+2023-03-27 11:08:06 [restartedMain] INFO  c.m.v.i.k.a.client.KafkaAdminClient - Reading kafka topic [twitter-topic], attempt 0
+2023-03-27 11:08:07 [restartedMain] INFO  c.k.init.impl.KafkaStreamInitializer - Topics with name twitter-topic is ready for operations!
+2023-03-27 11:08:07 [restartedMain] INFO  c.k.r.impl.MockKafkaStreamRunner - Starting mock filter twitter streams for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-03-27 11:08:07 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text crash crash Victor Robot Maksim Dream Spring White Dream Rub White magna sending to kafka topic twitter-topic
+2023-03-27 11:08:07 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1961197431796797164, "id": 5031759267324108198, "text": "crash crash Victor Robot Maksim Dream Spring White Dream Rub White magna", "createdAt": 1679904487000}' to topic='twitter-topic'
+2023-03-27 11:08:07 [pool-1-thread-1] INFO  o.a.k.c.producer.ProducerConfig - ProducerConfig values: 
+	acks = -1
+	batch.size = 1638400
+	bootstrap.servers = [localhost:19092, localhost:29092, localhost:39092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-1
+	compression.type = snappy
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = true
+	interceptor.classes = []
+	key.serializer = class org.apache.kafka.common.serialization.LongSerializer
+	linger.ms = 5
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 60000
+	retries = 5
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class io.confluent.kafka.serializers.KafkaAvroSerializer
+
+2023-03-27 11:08:07 [pool-1-thread-1] INFO  i.c.k.s.KafkaAvroSerializerConfig - KafkaAvroSerializerConfig values: 
+	bearer.auth.token = [hidden]
+	proxy.port = -1
+	schema.reflection = false
+	auto.register.schemas = true
+	max.schemas.per.subject = 1000
+	basic.auth.credentials.source = URL
+	value.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+	schema.registry.url = [http://localhost:8081]
+	basic.auth.user.info = [hidden]
+	proxy.host = 
+	use.latest.version = false
+	schema.registry.basic.auth.user.info = [hidden]
+	bearer.auth.credentials.source = STATIC_TOKEN
+	key.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+
+2023-03-27 11:08:07 [pool-1-thread-1] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.0.0
+2023-03-27 11:08:07 [pool-1-thread-1] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 8cb0a5e9d3441962
+2023-03-27 11:08:07 [pool-1-thread-1] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1679904487543
+2023-03-27 11:08:07 [kafka-producer-network-thread | producer-1] INFO  org.apache.kafka.clients.Metadata - [Producer clientId=producer-1] Cluster ID: v0OXOM98Ru-jVowTnvauiQ
+2023-03-27 11:08:17 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text magna Robot dangerous Elena Elasticsearch Maksim Robot sending to kafka topic twitter-topic
+2023-03-27 11:08:17 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 2303142000898609946, "id": 7256515435047462764, "text": "magna Robot dangerous Elena Elasticsearch Maksim Robot", "createdAt": 1679904497000}' to topic='twitter-topic'
+2023-03-27 11:08:27 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text flat Hope Black Happiness Victor decision Kafka trouble Happiness Maksim Hope sending to kafka topic twitter-topic
+2023-03-27 11:08:27 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 7755825575442121040, "id": 9110327520489962777, "text": "flat Hope Black Happiness Victor decision Kafka trouble Happiness Maksim Hope", "createdAt": 1679904507000}' to topic='twitter-topic'
+2023-03-27 11:08:37 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text decision Robot Hamlet solution Dream Kafka Hamlet flat decision decision sending to kafka topic twitter-topic
+2023-03-27 11:08:37 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 924902900240876312, "id": 6177206421924822634, "text": "decision Robot Hamlet solution Dream Kafka Hamlet flat decision decision", "createdAt": 1679904517000}' to topic='twitter-topic'
+2023-03-27 11:08:47 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Basilio magna Happiness magna White Elasticsearch Freedom Elena White sending to kafka topic twitter-topic
+2023-03-27 11:08:47 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3106445497416674989, "id": 1007277684781920699, "text": "Basilio magna Happiness magna White Elasticsearch Freedom Elena White", "createdAt": 1679904527000}' to topic='twitter-topic'
+2023-03-27 11:08:57 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hope Son Hamlet Robot Victor solution Spring Black dangerous Freedom flat sending to kafka topic twitter-topic
+2023-03-27 11:08:57 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 1786990142915573309, "id": 8030843047104667900, "text": "Hope Son Hamlet Robot Victor solution Spring Black dangerous Freedom flat", "createdAt": 1679904537000}' to topic='twitter-topic'
+2023-03-27 11:09:07 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son Sun Robert Rub Spring Sun Hope Freedom sending to kafka topic twitter-topic
+2023-03-27 11:09:07 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6873283746755591413, "id": 7226633321238183811, "text": "Son Sun Robert Rub Spring Sun Hope Freedom", "createdAt": 1679904547000}' to topic='twitter-topic'
+2023-03-27 11:09:17 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text decision Maksim Elena dollar solution Microservices Son White EUr Freedom sending to kafka topic twitter-topic
+2023-03-27 11:09:17 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3891570308104151210, "id": 8874774693477171538, "text": "decision Maksim Elena dollar solution Microservices Son White EUr Freedom", "createdAt": 1679904557000}' to topic='twitter-topic'
+2023-03-27 11:09:27 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dangerous Maksim dollar Happiness Black dangerous Freedom White Elasticsearch trouble Hope EUr Maksim Sun trouble Victor sending to kafka topic twitter-topic
+2023-03-27 11:09:27 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 3568653047692622327, "id": 5119548311853782741, "text": "dangerous Maksim dollar Happiness Black dangerous Freedom White Elasticsearch trouble Hope EUr Maksim Sun trouble Victor", "createdAt": 1679904567000}' to topic='twitter-topic'
+2023-03-27 11:09:37 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Sun Elena dollar Basilio Robert crash trouble flat Java dollar dangerous decision RED Freedom Elena decision sending to kafka topic twitter-topic
+2023-03-27 11:09:37 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4975939640294268591, "id": 6494625647112999624, "text": "Sun Elena dollar Basilio Robert crash trouble flat Java dollar dangerous decision RED Freedom Elena decision", "createdAt": 1679904577000}' to topic='twitter-topic'
+2023-03-27 11:09:47 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text decision dollar Rub trouble flat Kafka Maksim Maksim Robot Happiness sending to kafka topic twitter-topic
+2023-03-27 11:09:47 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4032775785307782891, "id": 4197004168939807552, "text": "decision dollar Rub trouble flat Kafka Maksim Maksim Robot Happiness", "createdAt": 1679904587000}' to topic='twitter-topic'
+2023-03-27 11:09:57 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Dream Victor Hamlet Sun Dream Dream Sun Kafka trouble Robert decision flat flat sending to kafka topic twitter-topic
+2023-03-27 11:09:57 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5461921059409817405, "id": 2020712402152752623, "text": "Dream Victor Hamlet Sun Dream Dream Sun Kafka trouble Robert decision flat flat", "createdAt": 1679904597000}' to topic='twitter-topic'
+2023-03-27 11:10:07 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Basilio Rub Basilio magna Freedom dollar Kafka dollar Robert Hope Maksim EUr sending to kafka topic twitter-topic
+2023-03-27 11:10:07 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 8624699498705193431, "id": 291543352442131629, "text": "Basilio Rub Basilio magna Freedom dollar Kafka dollar Robert Hope Maksim EUr", "createdAt": 1679904607000}' to topic='twitter-topic'
+2023-03-27 11:10:17 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Rub dollar magna Hamlet Robot Hamlet Java trouble solution Sun Robert Elena sending to kafka topic twitter-topic
+2023-03-27 11:10:17 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 6578091700301667453, "id": 7989328204830797909, "text": "Rub dollar magna Hamlet Robot Hamlet Java trouble solution Sun Robert Elena", "createdAt": 1679904617000}' to topic='twitter-topic'
+2023-03-27 11:10:27 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text dollar Rub flat Basilio EUr crash Maksim Son Microservices magna Hamlet Black decision Hamlet Maksim sending to kafka topic twitter-topic
+2023-03-27 11:10:27 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 83917705067666242, "id": 3979302439794720334, "text": "dollar Rub flat Basilio EUr crash Maksim Son Microservices magna Hamlet Black decision Hamlet Maksim", "createdAt": 1679904627000}' to topic='twitter-topic'
+2023-03-27 11:10:37 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Hamlet Sun solution Victor Microservices RED Hamlet magna sending to kafka topic twitter-topic
+2023-03-27 11:10:37 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5065087493285893673, "id": 789596039344892780, "text": "Hamlet Sun solution Victor Microservices RED Hamlet magna", "createdAt": 1679904637000}' to topic='twitter-topic'
+2023-03-27 11:10:47 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Robot solution dangerous Basilio Java RED magna White sending to kafka topic twitter-topic
+2023-03-27 11:10:47 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 5906860037529601063, "id": 3284178306693101472, "text": "Robot solution dangerous Basilio Java RED magna White", "createdAt": 1679904647000}' to topic='twitter-topic'
+2023-03-27 11:10:57 [pool-1-thread-1] INFO  c.k.l.TwitterKafkaStatusListener - Received status text Son Elena Happiness crash Dream Black Java Dream Victor RED Hamlet Victor sending to kafka topic twitter-topic
+2023-03-27 11:10:57 [pool-1-thread-1] INFO  c.m.v.k.p.c.s.i.TwitterKafkaProducer - Sending message='{"userId": 4674394854995464286, "id": 523000272101120288, "text": "Son Elena Happiness crash Dream Black Java Dream Victor RED Hamlet Victor", "createdAt": 1679904657000}' to topic='twitter-topic'
