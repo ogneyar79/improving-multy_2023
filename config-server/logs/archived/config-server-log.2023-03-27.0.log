@@ -1,0 +1,210 @@
+2023-03-27 09:14:59 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-03-27 09:14:59 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.2 on 00340753 with PID 8994 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 09:14:59 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 09:14:59 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-27 09:14:59 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-27 09:14:59 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 09:15:00 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 09:15:00 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 09:15:00 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 09:15:00 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 09:15:00 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 09:15:00 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 876 ms
+2023-03-27 09:15:00 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 09:15:00 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 09:15:00 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 09:15:00 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 1.919 seconds (JVM running for 2.608)
+2023-03-27 09:15:57 [http-nio-8888-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 09:15:57 [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 09:15:57 [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 09:20:09 [http-nio-8888-exec-5] INFO  o.s.c.c.s.e.NativeEnvironmentRepository - Adding property source: Config resource 'file [/tmp/config-repo-186066630489670566/application.yml]' via location 'file:/tmp/config-repo-186066630489670566/'
+2023-03-27 11:06:42 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-03-27 11:06:42 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.2 on 00340753 with PID 28274 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 11:06:42 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 11:06:42 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-27 11:06:42 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-27 11:06:43 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 11:06:43 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 11:06:43 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 11:06:43 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 11:06:43 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 11:06:43 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 11:06:43 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 931 ms
+2023-03-27 11:06:43 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 11:06:44 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 11:06:44 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 11:06:44 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 1.886 seconds (JVM running for 2.584)
+2023-03-27 11:08:02 [http-nio-8888-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 11:08:02 [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 11:08:02 [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 11:08:04 [http-nio-8888-exec-1] INFO  o.s.c.c.s.e.NativeEnvironmentRepository - Adding property source: Config resource 'file [/tmp/config-repo-7466530416587350027/application.yml]' via location 'file:/tmp/config-repo-7466530416587350027/'
+2023-03-27 11:37:17 [http-nio-8888-exec-3] INFO  o.s.c.c.s.e.NativeEnvironmentRepository - Adding property source: Config resource 'file [/tmp/config-repo-7466530416587350027/application.yml]' via location 'file:/tmp/config-repo-7466530416587350027/'
+2023-03-27 14:31:52 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.2 on 00340753 with PID 28274 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 14:31:52 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 14:31:52 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 14:31:52 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 14:31:52 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 14:31:52 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 14:31:52 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 14:31:52 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 14:31:52 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 293 ms
+2023-03-27 14:31:52 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 14:31:52 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 14:31:52 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 14:31:52 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 0.591 seconds (JVM running for 12311.26)
+2023-03-27 14:31:52 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2023-03-27 14:31:54 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.2 on 00340753 with PID 28274 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 14:31:54 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 14:31:54 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 14:31:54 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 14:31:54 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 14:31:54 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 14:31:54 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 14:31:54 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 14:31:54 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 173 ms
+2023-03-27 14:31:54 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 14:31:54 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 14:31:54 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 14:31:54 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 0.359 seconds (JVM running for 12312.963)
+2023-03-27 14:31:54 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2023-03-27 14:34:07 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.2 on 00340753 with PID 28274 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 14:34:07 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 14:34:07 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 14:34:07 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 14:34:07 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 14:34:07 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 14:34:07 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 14:34:07 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 14:34:07 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 201 ms
+2023-03-27 14:34:07 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 14:34:07 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 14:34:07 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 14:34:07 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 0.458 seconds (JVM running for 12445.889)
+2023-03-27 14:34:07 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2023-03-27 14:34:09 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.2 on 00340753 with PID 28274 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 14:34:09 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 14:34:09 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 14:34:09 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 14:34:09 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 14:34:09 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 14:34:09 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 14:34:09 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 14:34:09 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 145 ms
+2023-03-27 14:34:09 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 14:34:09 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 14:34:09 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 14:34:09 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 0.312 seconds (JVM running for 12447.946)
+2023-03-27 14:34:09 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2023-03-27 14:34:10 [http-nio-8888-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 14:34:10 [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 14:34:10 [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 14:34:11 [http-nio-8888-exec-1] INFO  o.s.c.c.s.e.NativeEnvironmentRepository - Adding property source: Config resource 'file [/tmp/config-repo-15717124455140523829/application.yml]' via location 'file:/tmp/config-repo-15717124455140523829/'
+2023-03-27 15:15:40 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.2 on 00340753 with PID 28274 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 15:15:40 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 15:15:40 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 15:15:41 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 15:15:41 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 15:15:41 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 15:15:41 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 15:15:41 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 15:15:41 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 191 ms
+2023-03-27 15:15:41 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 15:15:41 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 15:15:41 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 15:15:41 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 0.38 seconds (JVM running for 14939.459)
+2023-03-27 15:15:41 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2023-03-27 15:15:42 [http-nio-8888-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 15:15:42 [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 15:15:42 [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-03-27 15:15:43 [http-nio-8888-exec-1] INFO  o.s.c.c.s.e.NativeEnvironmentRepository - Adding property source: Config resource 'file [/tmp/config-repo-5901014280872953079/application.yml]' via location 'file:/tmp/config-repo-5901014280872953079/'
+2023-03-27 15:15:43 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.2 on 00340753 with PID 28274 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 15:15:43 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 15:15:43 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 15:15:43 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 15:15:43 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 15:15:43 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 15:15:43 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 15:15:44 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 15:15:44 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 142 ms
+2023-03-27 15:15:44 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 15:15:44 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 15:15:44 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 15:15:44 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 0.281 seconds (JVM running for 14942.414)
+2023-03-27 15:15:44 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2023-03-27 18:29:20 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.18 on 00340753 with PID 14296 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 18:29:20 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 18:29:20 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.0.Final
+2023-03-27 18:29:20 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-27 18:29:20 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-27 18:29:20 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 18:29:21 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 18:29:21 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 18:29:21 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 18:29:21 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 18:29:21 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 18:29:21 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1004 ms
+2023-03-27 18:29:21 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 18:29:21 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 18:29:21 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 18:29:21 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 2.016 seconds (JVM running for 2.902)
+2023-03-27 18:29:45 [http-nio-8888-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-27 18:29:45 [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-03-27 18:29:45 [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2023-03-27 18:29:50 [http-nio-8888-exec-1] INFO  o.s.c.c.s.e.NativeEnvironmentRepository - Adding property source: Config resource 'file [/tmp/config-repo-14657602273432390120/application.yml]' via location 'file:/tmp/config-repo-14657602273432390120/'
+2023-03-27 19:00:27 [http-nio-8888-exec-4] INFO  o.s.c.c.s.e.NativeEnvironmentRepository - Adding property source: Config resource 'file [/tmp/config-repo-14657602273432390120/application.yml]' via location 'file:/tmp/config-repo-14657602273432390120/'
+2023-03-27 19:09:56 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.18 on 00340753 with PID 14296 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 19:09:56 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 19:09:56 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 19:09:56 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 19:09:56 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 19:09:56 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 19:09:56 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 19:09:56 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 19:09:56 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 291 ms
+2023-03-27 19:09:56 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 19:09:56 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 19:09:56 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 19:09:56 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 0.566 seconds (JVM running for 2437.809)
+2023-03-27 19:09:56 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2023-03-27 19:09:57 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.18 on 00340753 with PID 14296 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 19:09:57 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 19:09:58 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 19:09:58 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 19:09:58 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 19:09:58 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 19:09:58 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 19:09:58 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 19:09:58 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 180 ms
+2023-03-27 19:09:58 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 19:09:58 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 19:09:58 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 19:09:58 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 0.359 seconds (JVM running for 2439.485)
+2023-03-27 19:09:58 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2023-03-27 19:10:18 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.18 on 00340753 with PID 14296 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 19:10:18 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 19:10:18 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 19:10:18 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 19:10:18 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 19:10:18 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 19:10:18 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 19:10:18 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 19:10:18 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 134 ms
+2023-03-27 19:10:18 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 19:10:18 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 19:10:18 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 19:10:18 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 0.259 seconds (JVM running for 2459.92)
+2023-03-27 19:10:18 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2023-03-27 19:10:20 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Starting ConfigServer using Java 11.0.18 on 00340753 with PID 14296 (/home/maksim/IdeaProjects/improving/config-server/target/classes started by maksim in /home/maksim/IdeaProjects/improving)
+2023-03-27 19:10:20 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - No active profile set, falling back to default profiles: default
+2023-03-27 19:10:20 [restartedMain] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=573718b9-94ff-33bb-9780-dfe7517cfe72
+2023-03-27 19:10:20 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2023-03-27 19:10:20 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2023-03-27 19:10:20 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-03-27 19:10:20 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2023-03-27 19:10:20 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-03-27 19:10:20 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 132 ms
+2023-03-27 19:10:20 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2023-03-27 19:10:20 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2023-03-27 19:10:20 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2023-03-27 19:10:20 [restartedMain] INFO  c.m.vss.config.server.ConfigServer - Started ConfigServer in 0.255 seconds (JVM running for 2461.572)
+2023-03-27 19:10:20 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
